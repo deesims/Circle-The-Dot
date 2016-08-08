@@ -1,11 +1,4 @@
-/**
- * Stack Abstract Data Type. A Stack is a linear data structure
- * following last-in-first-out protocol, i.e. the last element
- * that has been added onto the Stack, is the first one to
- * be removed.
- *
- * @author Marcel Turcotte
- */
+
 
 public interface Stack<E> {
 
