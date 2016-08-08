@@ -8,13 +8,6 @@ import java.io.FileOutputStream;
 import javax.swing.*;
 import java.io.File; 
 
-/**
- * The class <b>GameController</b> is the controller of the game. It implements
- * the interface ActionListener to be called back when the player makes a move. It computes
- * the next step of the game, and then updates model and view.
- *
- * @author Guy-Vincent Jourdan, University of Ottawa
- */
 
 
 public class GameController implements ActionListener {
