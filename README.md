@@ -1,4 +1,6 @@
-![Game Image 1.0](http://i.imgur.com/wvvuS5f.png "Circle The Dot")
+## Circle The Dot 
+
+![Game Image 1.0](http://i.imgur.com/lqX0gcx.png "Circle The Dot")
 
 
 Blue dot is trying to escape the board, capture it before it gets away. 
