@@ -1,3 +1,6 @@
+![Alt text](http://full/path/to/img.jpg "Optional title")
+
+
 Blue dot is trying to escape the board, capture it before it gets away. 
 
 Game is implemented using the Model-View-Controller design pattern in JAVA. 
