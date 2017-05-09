@@ -1,4 +1,4 @@
-![Alt text](http://full/path/to/img.jpg "Optional title")
+![Game Image 1.0](http://imgur.com/a/RxNKQ "Circle The Dot")
 
 
 Blue dot is trying to escape the board, capture it before it gets away. 
