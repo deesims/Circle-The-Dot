@@ -11,4 +11,9 @@ Utilizes event-driven programming.
 The game includes Linked Stacks for redo and undo options and a Serializable interface 
 which saves the game if the game is closed by the Quit button. 
 
-Execute CircleTheDot.java to run.
+## Make sure to have java and javac binaries in your path. 
+
+
+![Game Image 2.0](http://i.imgur.com/FnCml0E.png "How to run terminal") 
+
+
